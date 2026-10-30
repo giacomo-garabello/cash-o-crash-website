@@ -1,0 +1,13 @@
+{
+  "name": "cash-o-crash-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pagina web e privacy policy di Cash o Crash.",
+  "scripts": {
+    "build": "node tools/build.js"
+  },
+  "devDependencies": {
+    "@fontsource/atkinson-hyperlegible": "^5.1.0",
+    "@fontsource/bricolage-grotesque": "^5.1.0"
+  }
+}
